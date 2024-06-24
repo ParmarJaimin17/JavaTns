@@ -27,9 +27,9 @@ public class DemoEmp
     public static void main(String args[]) 
     {
         DemoEmp de = new DemoEmp();
-        de.setName("Jaimin");
-        de.setDesignation("Developer");
-        de.setBasicSalary(50000);
+        de.setName("Maharaj");
+        de.setDesignation("HR");
+        de.setBasicSalary(80000);
 
         System.out.println(de);
     }
